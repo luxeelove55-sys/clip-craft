@@ -1,0 +1,6 @@
+{
+  "name": "ClipCraft",
+  "description": "Turn long-form YouTube videos into short-form vertical clips with AI moment discovery, live 9:16 previewing, and caption export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
